@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '经典美剧'
-description: '经典美剧分享'
-keyword: '权利的游戏, 美剧, 经典美剧'
+title: '可心电影'
+description: '经典电影资源分享'
+keyword: '权利的游戏, 电影, 美剧, 经典美剧, 种子, 磁力链'
 url: 'https://meijuclub.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -17,9 +17,9 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: 'meijuclub'
+author: '可心电影'
 nickname: 'feifei'
-bio: '美剧分享'
+bio: '经典电影电视剧分享'
 avatar: '/assets/img/profile.png'
 
 # Search
